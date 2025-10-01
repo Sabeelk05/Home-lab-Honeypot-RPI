@@ -1,2 +1,3 @@
 # Home-lab-Honeypot-cloud-RPI
-Honeypot Cyber &amp; Cloud project hosted on a raspberry pi 4 
+CYBER & CLOUD INTEGRATION PROJECT T
+Deployment of a Raspberry PI 4 Honeypot with Azure integratio. 
